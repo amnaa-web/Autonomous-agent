@@ -1,0 +1,6 @@
+[
+  "test_main.py::test_approval",
+  "test_main.py::test_health",
+  "test_main.py::test_onboarding",
+  "test_main.py::test_run"
+]
